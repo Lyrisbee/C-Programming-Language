@@ -1,0 +1,4 @@
+Brian W. Kernighan, Dennis M. Ritchie
+35 comments
+Prentice Hall, 1988 - 272 pages
+Introduces the features of the C programming language, discusses data types, variables, operators, control flow, functions, pointers, arrays, and structures, and looks at the UNIX system interface
