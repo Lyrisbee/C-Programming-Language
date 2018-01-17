@@ -1,0 +1,4 @@
+This is an apple.
+It is sweet.
+An applet is any small application.
+A applet is differ from an apple.
