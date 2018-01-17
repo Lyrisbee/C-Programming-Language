@@ -1,0 +1,8 @@
+Name:Kelly	Phone:0981271125	Addr:http://www.cs01.ccu.edu.tw	Age:21	
+Name:Ken	Phone:0981256675	Addr:http://www.cs03.ccu.edu.tw	Age:35	
+Name:Chloe	Phone:0921489772	Addr:http://www.cs04.ccu.edu.tw	Age:20	
+Name:Jay	Phone:0937390390	Addr:http://www.cs05.ccu.edu.tw	Age:22	
+Name:Sana	Phone:0921000875	Addr:http://www.cs03.ccu.edu.tw	Age:20	
+Name:Alice	Phone:0987777481	Addr:http://www.cs01.ccu.edu.tw	Age:43	
+Name:Lee	Phone:0910258369	Addr:http://www.cs236.ccu.edu.tw	Age:29	
+Name:WuWu	Phone:0914725835	Addr:http://www.cs177.ccu.edu.tw	Age:20	
